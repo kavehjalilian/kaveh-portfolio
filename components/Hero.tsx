@@ -18,9 +18,7 @@ export default function Hero() {
       />
 
       <div className="relative z-10 max-w-[680px] mx-auto w-full pt-20 pb-16">
-        <p className="font-mono text-[var(--muted)] text-sm tracking-widest uppercase mb-6 fade-in">
-          Boston, MA
-        </p>
+
         <h1 className="text-5xl sm:text-6xl font-bold tracking-tight text-[var(--foreground)] leading-[1.08] mb-5 fade-in-delay-1">
           Kaveh Jalilian
         </h1>

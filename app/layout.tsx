@@ -15,11 +15,11 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Kaveh Jalilian — Data & Product",
   description:
-    "MBA + MSBA · Data analyst and product-minded professional based in Boston, MA. Specializing in Python, SQL, machine learning, and data storytelling.",
+    "MBA + MSBA · Data analyst and product-minded professional Specializing in Python, SQL, machine learning, and data storytelling.",
   openGraph: {
     title: "Kaveh Jalilian — Data & Product",
     description:
-      "MBA + MSBA · Data analyst and product-minded professional based in Boston, MA.",
+      "MBA + MSBA · Data analyst and product-minded professional Data & Product.",
     type: "website",
   },
 };
